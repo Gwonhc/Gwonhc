@@ -17,7 +17,7 @@
 
 ## 📂 주요 프로젝트
 
-### 🎵 Grooni (Discord Music Bot)
+### 👩‍🏫 Grooni (Discord Tutor Bot)
 - Repo: [Grooni](https://github.com/sopo9880/Grooni)
 - 설명: Discord에서 공부 계획을 관리할 수 있는 간단한 봇
 - 사용 기술: Python, Discord API
